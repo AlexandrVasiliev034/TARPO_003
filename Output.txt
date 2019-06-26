@@ -1,0 +1,24 @@
+It is Object oriented proggraming language PYTHON
+Year of creating: 1989
+PYTHON supports multiple inheritance
+
+It is Procedural programming language FORTRAN
+Year of creating: 1955
+FORTRAN does not support abstruct types
+
+It is Procedural programming language PASCAL
+Year of creating: 1974
+PASCAL does not support abstruct types
+
+It is Object oriented proggraming language EIFFEL
+Year of creating: 1978
+EIFFEL supports multiple inheritance
+
+It is Object oriented proggraming language JAVA
+Year of creating: 1992
+JAVA supports only single inheritance
+
+It is Procedural programming language C
+Year of creating: 1983
+C supports abstruct types
+

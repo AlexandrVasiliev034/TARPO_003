@@ -1,0 +1,1 @@
+C:\Users\vasil\source\repos\Programming_Languages\Debug\Programming_Languages.exe C:\Users\vasil\source\repos\Programming_Languages\Input.txt C:\Users\vasil\source\repos\Programming_Languages\Output.txt
